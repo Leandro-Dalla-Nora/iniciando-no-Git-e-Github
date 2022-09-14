@@ -7,3 +7,6 @@ git add . serve para adicionar vários arquivos no controle de versão
 git commit -m "mensagem" serve para criar as versões do seu código
 git remote add origin https://github.com/Leandro-Dalla-Nora/iniciando-no-Git-e-Github - serve para indiciar aonde será salvo os arquivos no github
 git push envia seus arquivos ao github
+git reflog serve para verificar o histórico de atualizações, sendo que a do topo é a mais atual
+
+(escrevendo porcarias para aprender a voltar a versão anterior)
