@@ -1,12 +1,12 @@
 Olá, eu sou o Leandro
 
-git init serve para iniciar o git
-git status serve para informar o status dos arquivos da pasta
-git add "nome do arquivo.abc" adiciona o arquivo para realizar o controle de versão
-git add . serve para adicionar vários arquivos no controle de versão
-git commit -m "mensagem" serve para criar as versões do seu código
-git remote add origin https://github.com/Leandro-Dalla-Nora/iniciando-no-Git-e-Github - serve para indiciar aonde será salvo os arquivos no github
-git push envia seus arquivos ao github
-git reflog serve para verificar o histórico de atualizações, sendo que a do topo é a mais atual
+-> git init serve para iniciar o git
+-> git status serve para informar o status dos arquivos da pasta
+-> git add "nome do arquivo.abc" adiciona o arquivo para realizar o controle de versão
+-> git add . serve para adicionar vários arquivos no controle de versão
+-> git commit -m "mensagem" serve para criar as versões do seu código
+-> git remote add origin <url> - serve para indiciar aonde será salvo os arquivos no github. Obs.: 1º você cria um repositório no github e usa esse link.
+-> git push envia seus arquivos ao github
+-> git reflog serve para verificar o histórico de atualizações, sendo que a do topo é a mais atual
 
 (escrevendo porcarias para aprender a voltar a versão anterior)
