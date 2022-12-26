@@ -8,4 +8,7 @@ Olá, eu sou o Leandro
 -> git remote add origin <url> - serve para indiciar aonde será salvo os arquivos no github. Obs.: 1º você cria um repositório no github e usa esse link.
 -> git push envia seus arquivos ao github. git push origin master envia a sua branch master ao github
 -> git reflog serve para verificar o histórico de atualizações, sendo que a do topo é a mais atual
+-> git 
+-> git reset --hard d4c6d1b (id da versão que se obtem com git reflog) serve para navegar nas versões do seu código, seja a primeira, seja a última.
+-> 
 
